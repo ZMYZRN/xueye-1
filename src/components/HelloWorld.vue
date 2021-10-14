@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <p>
       嘉然小姐的主页
-      <a href="https://space.bilibili.com/672328094" target="_blank" rel="noopener">vue-cli documentation</a>.
+      <a href="https://space.bilibili.com/672328094" target="_blank" rel="noopener">点击这里去当嘉然小姐的狗</a>.
     </p>
   </div>
 </template>
